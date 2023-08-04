@@ -1,0 +1,3 @@
+﻿  meshViewer.cpp
+C:\proj\test_opengl\meshViewer\meshViewer\window.h(82): warning C4715: “CWindow::createWindow”: 不是所有的控件路径都返回值
+  meshViewer.vcxproj -> C:\proj\test_opengl\meshViewer\x64\Debug\meshViewer.exe
